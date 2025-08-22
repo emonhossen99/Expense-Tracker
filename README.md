@@ -21,6 +21,10 @@
     ```bash
     php artisan ser
     ```
+    Another Command Run
+    ```bash
+    php artisan ser
+    ```
     Go to resgister and create a new account 
     ```bash
     //https://yourdomainname/register
